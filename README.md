@@ -96,20 +96,21 @@ This dataset is about the direct phone call marketing campaigns, which aim to pr
 6.	Feature Engineering
 7.	SMOTE Analysis for unbalanced dataset
 8.	Transformation Pipelines
-•	Data Cleaning Pipeline
-.  Log Transformation Pipeline	
-•	Scaling Pipeline
-•	Encoding Pipeline
-•	SMOTE Pipeline
-•	Full Datapreprocessing Pipeline
+
+ •	Data Cleaning Pipeline
+ .  Log Transformation Pipeline	
+ •	Scaling Pipeline
+ •	Encoding Pipeline
+ •	SMOTE Pipeline
+ •	Full Datapreprocessing Pipeline
 9.	Lazy Predict Modelling
 10.	Model Building: Part 1 
-•	RandomForest
-•	XGBoost
-•	SVM
-•	KNN
+ •	RandomForest
+ •	XGBoost
+ •	SVM
+ •	KNN
 11.	Model Building: Part 2
-•	XGBoost Hyperparameter Tuning
+ •	XGBoost Hyperparameter Tuning
 12.	Saving Model as pickle file
 13.	Final Pipeline including Model
 14.	Saving Pipeline as pickle file
