@@ -6,13 +6,16 @@ Nowadays, marketing spending in the banking industry is massive, meaning that it
 
 ## Main Objective: 
 •	The main objective of this project is to increase the effectiveness of the bank's telemarketing campaign
+
 •	The classification goal is to predict if the client will subscribe a term deposit or not
 This project will enable the bank to develop a more granular understanding of its customer base, predict customers' response to its telemarketing campaign and establish a target customer profile for future marketing plans.
 By analyzing customer features, such as demographics and transaction history, the bank will be able to predict customer saving behaviours and identify which type of customers is more likely to make term deposits. The bank can then focus its marketing efforts on those customers. This will not only allow the bank to secure deposits more effectively but also increase customer satisfaction by reducing undesirable advertisements for certain customers.
 
 ## Analysis objectives :
 •	Find the best strategies to improve the next marketing campaign.
+
 •	How can the financial institution have a greater effectiveness for future marketing campaigns?
+
 •	In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies.
 
 This project shall be delivered in two phases:
